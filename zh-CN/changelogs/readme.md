@@ -1,13 +1,13 @@
-# Update data
+# 更新记录
 
-This page includes all the datas of the server.
+此页面包含服务器所有的更新记录.
 
 
-## 2020
+## 2020年
 [2020](/zh-CN/changelogsgelogs/2020.md)
 
-## 2019 
+## 2019年 
 [2019](/zh-CN/changelogsgelogs/2019.md)
 
-## 2018 and before 
-[2018 and before](/zh-CN/changelogsgelogs/2018及之前.md)
+## 2018及之前 
+[2018及之前](/zh-CN/changelogsgelogs/2018及之前.md)
